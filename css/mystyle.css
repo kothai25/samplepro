@@ -1,0 +1,4 @@
+.registerform .form-group,.loginform .form-group,.resetpasswordform .form-group,.profileform .form-group
+{
+    overflow:hidden;
+}
